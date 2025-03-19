@@ -1,7 +1,7 @@
 --[[
 	Dragging Objects Script
 	Use W, A, S, D, Q, E to rotate; Z to attach.
-	You can attach a part only to parts from the workspace.AttParts folder.
+	You can attach a part only to parts from the AttParts folder.
 ]]
 -- Services --
 local runService = game:GetService("RunService")
